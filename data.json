@@ -18,7 +18,7 @@
         },
         {
             "soru":"Arxa planin rengini deyismek ucun duzgun css kodu hansidir ?",
-            "a":"background-color",
+            "a":"backgroundcolor",
             "b":"bg-color",
             "c":"background-color",
             "d":"color",
