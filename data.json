@@ -1,0 +1,60 @@
+{
+    "sorular":[
+        {
+            "soru":"Hansi HTML etiketi vacib bashliq hesab olunur?",
+            "a":"P",
+            "b":"a",
+            "c":"h1",
+            "d":"div",
+            "cavab":"c"
+        },
+        {
+            "soru":"Css`in aciqlamasi nedir ??",
+            "a":"Color,Style,Scale",
+            "b":"Cascading Style Sheets",
+            "c":"Cerative Standart Structure",
+            "d":"Hec biri",
+            "cavab":"b"
+        },
+        {
+            "soru":"Arxa planin rengini deyismek ucun duzgun css kodu hansidir ?",
+            "a":"background-color",
+            "b":"bg-color",
+            "c":"background-color",
+            "d":"color",
+            "cavab":"b"
+        },
+        {
+            "soru":"Hansi HTML tag`i JavaScript`in sehifeye elave olundugunu bildirir?",
+            "a":"javaScript",
+            "b":"script",
+            "c":"js",
+            "d":"Hec biri",
+            "cavab":"b"
+        },
+        {
+            "soru":"Hansi metod vasitesi ile stringdeki deyerleri boyuk herfe cevirmek mumkundur ?",
+            "a":"toUpper()",
+            "b":"toUpperCase()",
+            "c":"changeCase()",
+            "d":"Hec biri",
+            "cavab":"b"
+        },
+        {
+            "soru":"Hansi metod bir ve ya daha cox elementi array`in sonuna artirir  ?",
+            "a":"pop()",
+            "b":"push()",
+            "c":"join()",
+            "d":"map()",
+            "cavab":"b"
+        },  {
+            "soru":"Hansi metod 2 stringi birleshdirib text formatinda yeni string emele getirir?",
+            "a":"append()",
+            "b":"concat()",
+            "c":"attach()",
+            "d":"Hec biri",
+            "cavab":"b"
+        }
+    ]
+}
+

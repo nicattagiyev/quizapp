@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: linear-gradient( 112.1deg,  rgba(32,38,57,1) 11.4%, rgba(63,76,119,1) 70.2% );
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+background-color: #ffff;
+width: 40%;
+height: auto;
+border-radius: 5px;
+}
+.quiz-head{
+    padding: 20px;
+}
+.quiz-head h3{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.quiz-head ul li{
+    list-style: none;
+    margin-top: 10px;
+}
+ul{
+margin-top: 30px;
+}
+.container .btn{
+width: 100%;
+padding: 10px 20px 10px 20px;
+cursor: pointer;
+border-bottom-left-radius: 5px ;
+border-bottom-right-radius: 5px;
+border: none !important;
+outline: none !important;
+margin-top: 30px;
+background-image: radial-gradient( circle farthest-corner at -1% 57.5%,  rgba(19,170,82,1) 0%, rgba(0,102,43,1) 90% );
+color: white;
+}
+label{
+    cursor: pointer;
+    margin-left: 5px;
+}
+input{
+    cursor: pointer;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.head #time{
+    margin-left: 20px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .container{
+        width: 80%;
+    }
+}
